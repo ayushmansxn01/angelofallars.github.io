@@ -2,10 +2,10 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+I'm Angelo Fallaria. I'm a Python developer.
 
 # What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+I make Python projects on my [Github](https://github.com/getmicah). I also want to learn Machine Learning.
 
-# What programming languages do you use?
-When making websites I like using Javascript and Sass. I also like Python and making linux scripts.
+# Technologies
+Python and C
